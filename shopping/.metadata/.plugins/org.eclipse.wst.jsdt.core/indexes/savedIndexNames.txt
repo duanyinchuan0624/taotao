@@ -1,6 +1,0 @@
-INDEX VERSION 1.3+D:\GitHub\taotao\shopping\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-349618776.index
-3452502067.index
-514489289.index
-1060104137.index
-3031227617.index
